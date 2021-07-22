@@ -9,6 +9,21 @@ Drug discovery is one of the areas that can gain benefit a lot from this success
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
 
+[2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020) https://zitniklab.hms.harvard.edu/drugml/
+
+# Author and Organization
+
+
+| Author Name      | Organization | Profile    |
+| Jimeng Sun       |   UIUC   | http://www.sunlab.org/ |
+| Hosein Fooladi      | Sharif University | https://hfooladi.github.io/   |
+| Kexin Huang   | Harvard/Stanford        | https://www.kexinhuang.com/    |
+| Cao (Danica) Xiao | Amplitude | https://scholar.google.com/citations?user=ahaV25EAAAAJ&hl=en |
+| 计算机辅助药物设计中心(袁曙光教授课题组)|Shenzhen Institutes of Advanced
+Technology, Chinese Academy of Sciences| http://cadd.siat.ac.cn/home/ |
+|Guangyong Chen| Shenzhen Institute of Advanced Technology, Chinese Academy of Science | https://guangyongchen.github.io/ ｜
+|Zhaoping Xiong| ShanghaiTech University | https://scholar.google.com/citations?user=XZ8wFwkAAAAJ&hl=en |
+
 # Drug Properties Prediction
 
 # Drug-Target Interaction Prediction
