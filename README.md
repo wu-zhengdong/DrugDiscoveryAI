@@ -14,15 +14,15 @@ Drug discovery is one of the areas that can gain benefit a lot from this success
 # Author and Organization
 
 
-| Author Name      | Organization | Profile    |
-| Jimeng Sun       |   UIUC   | http://www.sunlab.org/ |
-| Hosein Fooladi      | Sharif University | https://hfooladi.github.io/   |
-| Kexin Huang   | Harvard/Stanford        | https://www.kexinhuang.com/    |
-| Cao (Danica) Xiao | Amplitude | https://scholar.google.com/citations?user=ahaV25EAAAAJ&hl=en |
-| 计算机辅助药物设计中心(袁曙光教授课题组)|Shenzhen Institutes of Advanced
-Technology, Chinese Academy of Sciences| http://cadd.siat.ac.cn/home/ |
-|Guangyong Chen| Shenzhen Institute of Advanced Technology, Chinese Academy of Science | https://guangyongchen.github.io/ ｜
-|Zhaoping Xiong| ShanghaiTech University | https://scholar.google.com/citations?user=XZ8wFwkAAAAJ&hl=en |
+| Author Name     	 	| Organization 		| Profile    					|
+| :-----| :----- | :----- |
+| Jimeng Sun       		|   UIUC   			| http://www.sunlab.org/ 		|
+| Hosein Fooladi        | Sharif University | https://hfooladi.github.io/   |
+| Kexin Huang   		| Harvard/Stanford  | https://www.kexinhuang.com/   |
+| Cao (Danica) Xiao 	| Amplitude 		| https://scholar.google.com/citations?user=ahaV25EAAAAJ&hl=en |
+| 计算机辅助药物设计中心(袁曙光教授课题组) | Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences| http://cadd.siat.ac.cn/home/ |
+|Guangyong Chen 		| Shenzhen Institute of Advanced Technology, Chinese Academy of Science | https://guangyongchen.github.io/ ｜
+|Zhaoping Xiong 		| ShanghaiTech University | https://scholar.google.com/citations?user=XZ8wFwkAAAAJ&hl=en |
 
 # Drug Properties Prediction
 
