@@ -19,8 +19,8 @@ DTI, Drug Property, PPI, DDI, Protein Function Prediction: https://github.com/ke
 
 # Literature Review
 
-| Year | Title | Author | Organization | Journal | IF | Citation | DOI | 
-| :-----| :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
+| Year | Title | Author | Organization | Journal | IF | Citation | DOI | DATA | Code |
+| :-----| :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
 | 2021 | Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models | Guangyong Chen | Journal of cheminformatics |  5.514 (Q2) | 5 | https://doi.org/10.1186/s13321-020-00479-8 |
 |2020 | Machine learning approaches to drug response prediction: challenges and recent progress | George Adam; Anna Goldenberg | University of Minnesota | npj Precision Oncology | 8.25 | 30 | https://doi.org/10.1038/s41698-020-0122-1 |
 
