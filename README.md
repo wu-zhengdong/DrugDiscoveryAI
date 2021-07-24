@@ -20,6 +20,7 @@ DTI, Drug Property, PPI, DDI, Protein Function Prediction: https://github.com/ke
 # Literature Review
 
 | Year | Title | Author | Organization | Journal | IF | Citation |
+| :-----| :----- | :----- | :----- | :----- | :----- | :----- | 
 | 2021 | Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models | Guangyong Chen | Journal of cheminformatics |  5.514 (Q2) | 5 |
 
 # Author and Organization
