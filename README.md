@@ -1,22 +1,26 @@
-# Review: Deep Learning In Drug Discovery
+# Summary: Deep Learning In Drug Discovery
 
 # Overview
 
-Drug discovery is one of the areas that can gain benefit a lot from this success of deep learning. Drug discovery is a very time-consuming and expensive task and deep learning can be used to make this process faster and cheaper. Recently, lots of papers have been published around this topic and in this post, I am going to present a detailed review to see how it is possible to use deep learning in this domain. I can divide the application of deep learning in drug discovery mainly into three different categories: [1]
+This repository organizes ***Reviews, Literature Review, GitHub Code, Professors, and Companies*** involved in drug discovery.
 
-1. Drug Properites Prediction
-2. Drug-Target Interaction Predcition
-3. De Novo Drug Design
+# Reviews
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
 
 [2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020) https://zitniklab.hms.harvard.edu/drugml/
 
-[3] A Deep Learning Library for Compound and Protein Modeling
+# GitHub Code
+
+[1] A Deep Learning Library for Compound and Protein Modeling
 DTI, Drug Property, PPI, DDI, Protein Function Prediction: https://github.com/kexinhuang12345/DeepPurpose
 
-[4] A Deep Learning based Efficacy Prediction System for Drug Discovery: https://github.com/kekegg/DLEPS
+[2] A Deep Learning based Efficacy Prediction System for Drug Discovery: https://github.com/kekegg/DLEPS
 
+# Literature Review
+
+| Year | Title | Author | Organization | Journal | IF | Citation |
+| 2021 | Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models | Guangyong Chen | Journal of cheminformatics |  5.514 (Q2) | 5 |
 
 # Author and Organization
 
