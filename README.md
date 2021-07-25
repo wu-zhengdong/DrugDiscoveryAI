@@ -1,14 +1,20 @@
-# Summary: Deep Learning In Drug Discovery
+# Deep Learning in Drug Discovery
 
 # Overview
 
-This repository organizes ***Reviews, Literature Review, GitHub Code, Professors, and Companies*** involved in drug discovery.
+Drug discovery and development are expensive and time-consuming processes. Developing a new drug from discovery to regulatory approval may take 12 years and cost up to $2.81 billion. Furthermore, there is a high failure rate (1:5000) at each stage of drug development [2]. With the remarkable success of machine learning in various application fields, we are seeing increasing interest in the application of machine learning in drug discovery and development [1-4]. Here, we focus on this topic and review the literature on deep learning in drug discovery.
 
-# Reviews
+Hosein Fooladi divides the application of deep learning in drug discovery mainly into three different categories: Drug properties prediction, De Novo drug design, and Drug-target interaction (DTI) prediction [1]. The 29th IJCAI discusses key classes of methods for tackling these drug-related tasks: Generative models, Reinforcement learning, and Deep representation learning [2].
+
+![Deep Learning in Drug Discovery [2]](./pics/workflow.png)
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
 
 [2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020) https://zitniklab.hms.harvard.edu/drugml/
+
+[3] deepakvraghavan. (2018, May 15) Real World Deep Neural Network Architectures for Pharma Industry. https://deepakvraghavan.medium.com/real-world-deep-neural-network-architectures-for-pharma-industry-a6e885f8038f/
+
+[4] Schneider, G. (2018). Automating drug discovery. Nature reviews drug discovery, 17(2), 97-113.
 
 # GitHub Code
 
