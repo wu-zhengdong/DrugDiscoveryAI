@@ -30,6 +30,8 @@ Hosein Fooladi divides the application of deep learning in drug discovery mainly
 
 [2] A Deep Learning based Efficacy Prediction System for Drug Discovery: https://github.com/kekegg/DLEPS.
 
+[3] Classification of Drug Like molecules using Artificial Neural Network. https://gananath.github.io/drugai.html; https://github.com/Gananath/DrugAI,
+
 # Literature Review
 
 The following is an example, please download for details: https://github.com/ugggddd/DrugDiscoveryAI/blob/master/Drug_AI_Literature_Review.xlsx.
