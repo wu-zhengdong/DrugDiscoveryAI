@@ -34,7 +34,7 @@ Hosein Fooladi divides the application of deep learning in drug discovery mainly
 
 # Literature Review
 
-The following is an example, please download for details: https://github.com/ugggddd/DrugDiscoveryAI/blob/master/Drug_AI_Literature_Review.xlsx.
+The following is an example, please download for details: https://github.com/ugggddd/DrugDiscoveryAI/blob/master/Drug_AI_Literature_Review.xlsx. (Ongoing).
 
 | Year | Title | Author | Organization | Journal | IF | Citation | DOI | DATA | Code |
 | :-----| :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
