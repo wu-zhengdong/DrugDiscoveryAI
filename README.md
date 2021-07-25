@@ -14,7 +14,7 @@ Hosein Fooladi divides the application of deep learning in drug discovery mainly
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
 
-[2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020) https://zitniklab.hms.harvard.edu/drugml/
+[2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020). https://zitniklab.hms.harvard.edu/drugml/
 
 [3] deepakvraghavan. (2018, May 15) Real World Deep Neural Network Architectures for Pharma Industry. https://deepakvraghavan.medium.com/real-world-deep-neural-network-architectures-for-pharma-industry-a6e885f8038f/
 
