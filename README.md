@@ -14,17 +14,21 @@ Hosein Fooladi divides the application of deep learning in drug discovery mainly
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
 
-[2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020). https://zitniklab.hms.harvard.edu/drugml/
+[2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020). https://zitniklab.hms.harvard.edu/drugml/.
 
-[3] deepakvraghavan. (2018, May 15) Real World Deep Neural Network Architectures for Pharma Industry. https://deepakvraghavan.medium.com/real-world-deep-neural-network-architectures-for-pharma-industry-a6e885f8038f/
+[3] deepakvraghavan. (2018, May 15) Real World Deep Neural Network Architectures for Pharma Industry. https://deepakvraghavan.medium.com/real-world-deep-neural-network-architectures-for-pharma-industry-a6e885f8038f/.
 
 [4] Schneider, G. (2018). Automating drug discovery. Nature reviews drug discovery, 17(2), 97-113.
 
+[5] Neil Savage. (2021, May 27). Tapping into the drug discovery potential of AI. https://www.nature.com/articles/d43747-021-00045-7.
+
+[5] 唐巧. (2020, Oct 24) AI+新药领域行业发展. https://vcbeat.top/48626.
+
 # GitHub Code
 
-[1] A Deep Learning Library for Compound and Protein Modeling DTI, Drug Property, PPI, DDI, Protein Function Prediction: https://github.com/kexinhuang12345/DeepPurpose
+[1] A Deep Learning Library for Compound and Protein Modeling DTI, Drug Property, PPI, DDI, Protein Function Prediction: https://github.com/kexinhuang12345/DeepPurpose.
 
-[2] A Deep Learning based Efficacy Prediction System for Drug Discovery: https://github.com/kekegg/DLEPS
+[2] A Deep Learning based Efficacy Prediction System for Drug Discovery: https://github.com/kekegg/DLEPS.
 
 # Literature Review
 
@@ -48,6 +52,9 @@ The following is an example, please download for details: https://github.com/ugg
 | Guangyong Chen | Shenzhen Institute of Advanced Technology, Chinese Academy of Science | https://guangyongchen.github.io/ |
 | Zhaoping Xiong | ShanghaiTech University | https://scholar.google.com/citations?user=XZ8wFwkAAAAJ&hl=en |
 | Qingpeng Zhang | City University of Hong Kong | http://www.cityu.edu.hk/stfprofile/zhang.html |
-| 晶泰科技 | Company | https://www.jingtaikeji.com/zh-hans/ |
-| BioMap百图生科 | Company | http://www.biomap.com/ |
-| 腾讯量子实验室Tencent Quantum Lab | Company | https://quantum.tencent.com/about/ |
+| Recursion Pharmaceuticals                | Company                                                      | https://www.recursion.com/                                   |
+| 晶泰科技                                 | Company                                                      | https://www.jingtaikeji.com/zh-hans/                         |
+| CONNECT TO CRMBioMap百图生科             | Company                                                      | http://www.biomap.com/                                       |
+| SAVE腾讯量子实验室Tencent Quantum Lab    | Company                                                      | https://quantum.tencent.com/about/                           |
+| 云深智药                                 | Company                                                      | https://drug.ai.tencent.com/en                               |
+| DrugAI | 公众号 | https://www.zhihu.com/column/c_1155516810005778432 |
