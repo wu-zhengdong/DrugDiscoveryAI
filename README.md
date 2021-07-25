@@ -2,7 +2,7 @@
 
 # Overview
 
-Drug discovery and development are expensive and time-consuming processes. Developing a new drug from discovery to regulatory approval may take 12 years and cost up to $2.8 billion. Furthermore, there is a high failure rate (1:5000) at each stage of drug development [2]. With the remarkable success of machine learning in various application fields, we are seeing increasing interest in the application of machine learning in drug discovery and development [1-4]. Here, we focus on this topic and review the literature on deep learning in drug discovery.
+Drug discovery and development are expensive and time-consuming processes. Developing a new drug from discovery to regulatory approval may take 12 years and cost up to $2.8 billion. Furthermore, there is a high failure rate (1:5000) at each stage of drug development [2]. With the remarkable success of machine learning in various application fields, we are seeing increasing interest in the application of machine learning in drug discovery and development [1-6]. Here, we focus on this topic and review the literature on deep learning in drug discovery.
 
 Hosein Fooladi divides the application of deep learning in drug discovery mainly into three different categories: Drug properties prediction, De Novo drug design, and Drug-target interaction (DTI) prediction [1]. The 29th IJCAI discusses key classes of methods for tackling these drug-related tasks: Generative models, Reinforcement learning, and Deep representation learning [2].
 
@@ -22,7 +22,7 @@ Hosein Fooladi divides the application of deep learning in drug discovery mainly
 
 [5] Neil Savage. (2021, May 27). Tapping into the drug discovery potential of AI. https://www.nature.com/articles/d43747-021-00045-7.
 
-[5] 唐巧. (2020, Oct 24) AI+新药领域行业发展. https://vcbeat.top/48626.
+[6] 唐巧. (2020, Oct 24) AI+新药领域行业发展. https://vcbeat.top/48626.
 
 # GitHub Code
 
