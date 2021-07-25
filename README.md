@@ -11,18 +11,17 @@ Hosein Fooladi divides the application of deep learning in drug discovery mainly
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="./pics/workflow.png">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 2px;">
-    	Deep Learning in Drug Discovery [2]
-	</div>
+    <center>
+    	<div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 2px;">
+    Deep Learning in Drug Discovery [2]
+		</div>
+	</center>
 </center>
 
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
-
 [2] Machine Learning for Drug Development Tutorial at the 29th International Joint Conference on Artificial Intelligence (IJCAI2020) https://zitniklab.hms.harvard.edu/drugml/
-
 [3] deepakvraghavan. (2018, May 15) Real World Deep Neural Network Architectures for Pharma Industry. https://deepakvraghavan.medium.com/real-world-deep-neural-network-architectures-for-pharma-industry-a6e885f8038f/
-
 [4] Schneider, G. (2018). Automating drug discovery. Nature reviews drug discovery, 17(2), 97-113.
 
 # GitHub Code
@@ -38,7 +37,7 @@ The following is an example, please download for details: https://github.com/ugg
 
 | Year | Title | Author | Organization | Journal | IF | Citation | DOI | DATA | Code |
 | :-----| :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
-| 2021 | Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models | Guangyong Chen | Journal of cheminformatics |  5.514 (Q2) | 5 | https://doi.org/10.1186/s13321-020-00479-8 |
+| 2021 | Could graph neural networks learn better molecular representation for drug discovery? A comparison study of descriptor-based and graph-based models | Guangyong Chen | Journal of cheminformatics | Shenzhen Institute of Advanced Technology, Chinese Academy of Science |  5.514 (Q2) | 5 | https://doi.org/10.1186/s13321-020-00479-8 |
 |2020 | Machine learning approaches to drug response prediction: challenges and recent progress | George Adam; Anna Goldenberg | University of Minnesota | npj Precision Oncology | 8.25 | 30 | https://doi.org/10.1038/s41698-020-0122-1 |
 
 # Author and Organization
