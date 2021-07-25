@@ -6,7 +6,7 @@ Drug discovery and development are expensive and time-consuming processes. Devel
 
 Hosein Fooladi divides the application of deep learning in drug discovery mainly into three different categories: Drug properties prediction, De Novo drug design, and Drug-target interaction (DTI) prediction [1]. The 29th IJCAI discusses key classes of methods for tackling these drug-related tasks: Generative models, Reinforcement learning, and Deep representation learning [2].
 
-![Deep Learning in Drug Discovery [2]](./pics/workflow.png)
+![Deep Learning in Drug Discovery](./pics/workflow.png "Deep Learning in Drug Discovery [2]")
 
 [1] Fooladi, H. (2018, October 31). Review: Deep Learning In Drug Discovery. Hosein Fooladi. https://hfooladi.github.io/posts/2018/10/Review-Deep-Learning-In-Drug-Discovery/. 
 
