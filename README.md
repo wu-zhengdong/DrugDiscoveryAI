@@ -54,9 +54,10 @@ The following is an example, please download for details: https://github.com/ugg
 | Guangyong Chen | Shenzhen Institute of Advanced Technology, Chinese Academy of Science | https://guangyongchen.github.io/ |
 | Zhaoping Xiong | ShanghaiTech University | https://scholar.google.com/citations?user=XZ8wFwkAAAAJ&hl=en |
 | Qingpeng Zhang | City University of Hong Kong | http://www.cityu.edu.hk/stfprofile/zhang.html |
+| IQVIA                                    | Company                                                      | https://www.iqvia.com/                                       |
 | Recursion Pharmaceuticals                | Company                                                      | https://www.recursion.com/                                   |
 | 晶泰科技                                 | Company                                                      | https://www.jingtaikeji.com/zh-hans/                         |
 | CONNECT TO CRMBioMap百图生科             | Company                                                      | http://www.biomap.com/                                       |
 | SAVE腾讯量子实验室Tencent Quantum Lab    | Company                                                      | https://quantum.tencent.com/about/                           |
 | 云深智药                                 | Company                                                      | https://drug.ai.tencent.com/en                               |
-| DrugAI | 公众号 | https://www.zhihu.com/column/c_1155516810005778432 |
+| DrugAI                                   | 公众号                                                       | https://www.zhihu.com/column/c_1155516810005778432           |
